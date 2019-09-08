@@ -1,0 +1,19 @@
+{
+  "name": "name_what_you_want",
+  "version": "0.0.1",
+  "description": "Template for the XCLI plugin development series",
+  "main": "devServer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemonCloud/xcli-plugin-template.git"
+  },
+  "keywords": [
+    "xcli"
+  ],
+  "author": "your_name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemonCloud/xcli-plugin-template/issues"
+  },
+  "homepage": "https://github.com/DemonCloud/xcli-plugin-template#readme"
+}
