@@ -1,3 +1,5 @@
 {
-  "plugin-name" : "xcli-plugin-template"
+  "plugin-name" : "xcli-plugin-template",
+  "plugin-version": "0.0.1",
+  "plugin-package": "npm"
 }
