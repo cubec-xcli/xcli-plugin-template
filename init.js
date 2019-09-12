@@ -10,7 +10,7 @@ const demo2 = function(context, args) {
 
 module.exports = {
   "[XPT] TEMPLATE DEMO": {
-    "[XPT] DEMO1": "DemonCloud/xcli-plugin-template",
-    "[XPT] DEMO2": demo2
+    "[XPT] INIT DEMO1": "DemonCloud/xcli-plugin-template",
+    "[XPT] INIT DEMO2": demo2
   }
 };
