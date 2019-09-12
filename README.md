@@ -11,7 +11,7 @@ base on **abcx(1.0)**
 The template will add all the implementation files by default, they are:
 
 ```shell
-init.js       # Implement for (xcli init) command
+create.js     # Implement for (xcli create) command
 devServer.js  # Implement for (xcli dev) command
 build.js      # Implement for (xcli build) command
 publish.js    # Implement for (xcli publish) command

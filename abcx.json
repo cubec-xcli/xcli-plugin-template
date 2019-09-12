@@ -2,5 +2,6 @@
   "abcx-version": "1.0",
   "plugin-name" : "xcli-plugin-template",
   "plugin-version": "0.0.1",
-  "plugin-package": "npm"
+  "plugin-package": "npm",
+  "plugin-description":"xcli test plugin template"
 }

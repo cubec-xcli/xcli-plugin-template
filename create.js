@@ -2,6 +2,7 @@
 // Extra context
 //   - context.projectName
 //   - context.projectRoot -> context.utils.paths.currentPath
+//   - context.createPath
 //
 const demo2 = function(context, args) {
   const { std } = context.utils;

@@ -8,10 +8,11 @@
     "url": "git+https://github.com/DemonCloud/xcli-plugin-template.git"
   },
   "keywords": [
-    "xcli"
+    "xcli",
+    "xcli plugin"
   ],
   "author": "your_name",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DemonCloud/xcli-plugin-template/issues"
   },
